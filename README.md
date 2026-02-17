@@ -1,7 +1,70 @@
-Property | Data
---- | --- 
-**Language / IDE**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-0EAA25?style=flat&logo=GNUBash&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-0000FF?style=flat&logo=VisualStudioCode&logoColor=white) 
-**Domain Knownledge**  |[![DevOps](https://img.shields.io/badge/-DevOps-HHB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Linux](https://img.shields.io/badge/-Linux-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) 
-**CI / CD** | [![Jenkins-CI](https://img.shields.io/badge/-Jenkins-2088FF?style=flat&logo=Jenkins&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb)
-**Databases**  | <img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/c44ec7dbcddd4dea22204197ce11e45bea3ef03ff97e45294bf66ea793527706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c7565" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=blue" style="max-width: 100%;">
-**OS**  | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8A2BE2&height=220&section=header&text=Vinoth%20Sundararajan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20AI%20Enthusiast%20|%20Automation%20Architect&descAlignY=60&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-0A66C2?style=for-the-badge&logo=devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Native-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Production-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-First-2E8B57?style=for-the-badge" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🔹 DevOps Engineer with strong Linux & Infrastructure expertise  
+🔹 Passionate about CI/CD, Automation & Cloud Architecture  
+🔹 Exploring AI integration in DevOps workflows  
+🔹 Focused on scalable, secure production systems  
+🔹 Automation-first mindset  
+
+---
+
+## ⚙️ DevOps & Cloud Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,jenkins,git,githubactions,prometheus,grafana" />
+</p>
+
+---
+
+## 🧠 Development & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,postgres,mysql,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 DevOps Philosophy
+
+> Automate Everything  
+> Secure by Design  
+> Monitor What Matters  
+> Scale Without Fear  
+
+---
+
+## 🎯 Current Focus
+
+- AI-powered DevOps tooling  
+- Secure Infrastructure as Code  
+- Kubernetes production optimization  
+- Observability & Performance Engineering  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0A66C2&height=120&section=footer"/>
+</p>
